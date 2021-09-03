@@ -1,6 +1,6 @@
 # DAT250: Software Technology Experiment Assignment 1
 
-Through the assignment I met some problems when I installed jdk and maven, but other than that the assignment went relatively smooth.
+Through the assignment I met some problems when I installed jdk and maven, but other than that the assignment went smooth.
 
 For the jdk problem the installer got stuck for no apparent reason so a quick restart of the computer and the jdk install went smoothly. To check that the jdk was installed and worked I simply created a simple hello world project with the intellij IDE to check if it could compile and run, which it did.
 
